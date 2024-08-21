@@ -1,5 +1,8 @@
 # Modelo Relacional para una Biblioteca
 
+## Integrantes/Autor
+Daniel Felipe Agudelo Molina - Docente 🤓
+
 ## Libro(Book)
 	book_id(PK) Primary Key / LLave Primaria (Número)
     book_title: Título del libro (Texto)
